@@ -1,59 +1,96 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá!%20Eu%20sou%20Felipe Tiroleza&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felipe%20Tiroleza&fontSize=50&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20|%20Fullstack%20&%20Mobile&descAlignY=52&descSize=18" />
 </div>
 
-<h3 align="center">Engenheiro de Software | Desenvolvedor Fullstack & Mobile</h3>
+<div align="center">
+  <a href="mailto:fefetiroleza@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/felipe-tiroleza-312635179/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-<p align="center">
-  Apaixonado por criar soluções eficientes, desde aplicativos móveis até sistemas web complexos. Sempre em busca de aprender novas arquiteturas e garantir a qualidade do código.
-</p>
+<br/>
 
-<br>
-
-## 👨‍💻 Sobre mim
-
-* 🎓 Formado/Formando em **Engenharia de Software**.
-* 🚀 Focado em desenvolvimento backend, mobile e arquitetura de sistemas.
-* 💡 Tenho interesse especial em automação, pipelines e segurança da informação.
-* 📫 Como me encontrar: **[felipe.tiroleza@outlook.com](mailto:fefetiroleza@gmail.com)** ou no **[LinkedIn](https://www.linkedin.com/in/felipe-tiroleza-312635179/)**.
-
-<br>
-
-## 🛠️ Tecnologias e Ferramentas
+## 💼 Services I Offer
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br/>
+        <b>Android Apps (Kotlin/Java)</b><br/>
+        <sub>Clean Architecture, Jetpack Compose, Firebase</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>
+        <b>Backend & APIs</b><br/>
+        <sub>Node.js, Java, SQL/NoSQL databases</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>
+        <b>CI/CD & Automation</b><br/>
+        <sub>GitHub Actions, pipelines, deployments</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>
+        <b>Firebase</b><br/>
+        <sub>Auth, Firestore, Cloud Functions</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br/>
+        <b>Infra & Security</b><br/>
+        <sub>Linux servers, containers, hardening</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>
+        <b>Version Control</b><br/>
+        <sub>Git, GitHub, GitFlow, code review</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- Current Streak -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiroleza&theme=github-dark-dimmed&hide_border=false"/>
   
-  <br>
-
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- Most Used Languages -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css"/>
 </div>
 
-<br>
+---
 
-## 📊 Minhas Estatísticas
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiroleza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Tiroleza&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- Replace "repo-name" with your actual repository slugs -->
+  <a href="https://github.com/Tiroleza/java-distribuidor-tarefas ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Tiroleza/grizzlyBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Tiroleza/smashlive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=smashlive&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Tiroleza/App-para-Fire-Stick-TV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Tiroleza/Site-Institucional-de-Contabilidade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=Site-Institucional-de-Contabilidade&theme=github_dark_dimmed" />
+  </a>
 </div>
 
-<br>
-
-## 🏆 Projetos em Destaque
-
-* 📱 **[Nome do seu App Mobile]**: (Breve descrição, ex: Aplicativo focado em acessibilidade feito em Kotlin com Firebase).
-* 🕹️ **[Nome da Plataforma]**: (Breve descrição, ex: Plataforma gamificada para estudantes).
-* 🌐 **[Nome do Site]**: (Breve descrição, ex: Landing page institucional com integração de formulários).
-
-<br>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiroleza&label=Visualizações+do+Perfil&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tiroleza&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
