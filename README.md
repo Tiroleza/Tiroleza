@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" style="width: 100%; height: 150px; object-fit: cover; object-position: top;" alt="Pixel Art Developer Coding"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" style="width: 100%; height: 240px; object-fit: cover; object-position: top;" alt="Pixel Art Developer Coding"/>
 </div>
 
 <h1 align="center">Felipe Tiroleza | <small>Software Engineer</small></h1>
