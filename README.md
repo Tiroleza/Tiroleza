@@ -3,12 +3,10 @@
 </div>
 
 <h1 align="center">Felipe Tiroleza | <small>Software Engineer</small></h1>
-
 <div align="center">
   <a href="mailto:fefetiroleza@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/felipe-tiroleza-312635179/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
 <br>
 
 🔹 Hi, I'm a **Software Engineer** focused on building scalable applications. My core stack revolves around the **TypeScript** ecosystem, engineering web interfaces with **React** and solid backends with **Node.js** (Express/NestJS).
@@ -16,7 +14,6 @@
 🔹 For mobile, I build cross-platform apps using **React Native** and native Android solutions with **Kotlin & Jetpack Compose**, including applications currently live in production on the Google Play Store.
 
 🔹 Beyond the JS ecosystem, I have a strong background in **Java** and distributed systems, working with complex architectural patterns (like CQRS), async processing, and third-party API integrations.
-
 <br>
 
 <div align="center">
@@ -24,14 +21,13 @@
 </div>
 
 <br>
-
 <table width="100%" align="center" style="border: none;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none;">
       <h3>💠 Skills & Technologies</h3>
       <p><b>Languages:</b> TypeScript, JavaScript, Kotlin, Java, Python, C, C++.</p>
       <p><b>Frontend & Mobile:</b> React, React Native, Jetpack Compose, Android SDK, Webflow.</p>
-      <p><b>Backend & Arch:</b> Node.js, NestJS, Express, CQRS, REST APIs, TypeORM.</p>
+      <p><b>Backend & Arch:</b> Node.js, NestJS, Express, REST APIs, TypeORM, Prisma.</p>
       <p><b>Cloud & DevOps:</b> Firebase (Functions/Auth), CI/CD, GitHub Actions, ESP32.</p>
       <p><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firestore, Supabase, Redis, Amazon S3.</p>
     </td>
@@ -40,8 +36,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🌐 Featured Projects
 
@@ -56,7 +50,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/App-para-Fire-Stick-TV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed&v=1" />
   </a>
 </div>
 
