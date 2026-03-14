@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felipe%20Tiroleza&fontSize=50&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20|%20Fullstack%20&%20Mobile&descAlignY=52&descSize=18" />
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="18000" alt="Pixel Art Developer Coding"/>
 </div>
+<br>
 
 <div align="center">
   <a href="mailto:fefetiroleza@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/felipe-tiroleza-312635179/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-<br/>
 
 ## 💼 Services I Offer
 
@@ -55,11 +54,9 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- Current Streak -->
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiroleza&theme=github-dark-dimmed&hide_border=false"/>
   
-  <!-- Most Used Languages -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&custom_language_colors=python:4caf50"/>
 </div>
 
 ---
@@ -67,8 +64,7 @@
 ## 🚀 Featured Projects
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- Replace "repo-name" with your actual repository slugs -->
-  <a href="https://github.com/Tiroleza/java-distribuidor-tarefas ">
+  <a href="https://github.com/Tiroleza/java-distribuidor-tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/grizzlyBot">
