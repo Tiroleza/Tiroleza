@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" alt="Pixel Art Developer Coding"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" style="width: 100%; height: 150px; object-fit: cover; object-position: top;" alt="Pixel Art Developer Coding"/>
 </div>
 
 <h1 align="center">Felipe Tiroleza | <small>Software Engineer</small></h1>
@@ -11,27 +11,31 @@
 
 <br>
 
-## 💼 Services I Offer
+🔹 Hi, I'm a **Software Engineer** focused on building scalable applications. My core stack revolves around the **TypeScript** ecosystem, engineering web interfaces with **React** and solid backends with **Node.js** (Express/NestJS).
 
-* **📱 Android Apps (Kotlin/Java):** Desenvolvimento focado em Clean Architecture, Jetpack Compose e integrações robustas com Firebase.
-* **⚙️ Backend & APIs:** Construção de lógicas de servidor e APIs RESTful utilizando Node.js e Java.
-* **☁️ Infra & Automação:** Experiência com ambientes Linux, configurações de servidores, containers e criação de pipelines de CI/CD (GitHub Actions).
-* **🔒 Versionamento & Segurança:** Foco em boas práticas com Git/GitHub (GitFlow, Code Review), segurança da informação e hardening.
+🔹 For mobile, I build cross-platform apps using **React Native** and native Android solutions with **Kotlin & Jetpack Compose**, including applications currently live in production on the Google Play Store.
+
+🔹 Beyond the JS ecosystem, I have a strong background in **Java** and distributed systems, working with complex architectural patterns (like CQRS), async processing, and third-party API integrations.
+
+<br>
 
 <div align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiroleza&theme=github-dark-dimmed&hide_border=false"/>
 </div>
 
+<br>
+
 <table width="100%" align="center" style="border: none;">
   <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🛠️ Skills & Technologies</h3>
-      <p><b>Linguagens:</b> Kotlin, Java, JavaScript, TypeScript, HTML, CSS, Python.</p>
-      <p><b>Tecnologias:</b> Android SDK, Jetpack Compose, Node.js, Firebase, Docker, Linux.</p>
-      <p><b>Bancos de Dados:</b> SQL, NoSQL, MySQL, PostgreSQL, MongoDB, Firestore.</p>
-      <p><b>Ferramentas:</b> Git, GitHub, Android Studio, VS Code, Postman.</p>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>💠 Skills & Technologies</h3>
+      <p><b>Languages:</b> TypeScript, JavaScript, Kotlin, Java, Python, C, C++.</p>
+      <p><b>Frontend & Mobile:</b> React, React Native, Jetpack Compose, Android SDK, Webflow.</p>
+      <p><b>Backend & Arch:</b> Node.js, NestJS, Express, CQRS, REST APIs, TypeORM.</p>
+      <p><b>Cloud & DevOps:</b> Firebase (Functions/Auth), CI/CD, GitHub Actions, ESP32.</p>
+      <p><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firestore, Supabase, Redis, Amazon S3.</p>
     </td>
-    <td width="50%" valign="center" align="center" style="border: none;">
+    <td width="45%" valign="center" align="center" style="border: none;">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&custom_language_colors=python:4caf50,typescript:4caf50"/>
     </td>
   </tr>
@@ -39,7 +43,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Featured Projects
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Tiroleza/java-distribuidor-tarefas">
@@ -48,16 +52,16 @@
   <a href="https://github.com/Tiroleza/grizzlyBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
   </a>
-  <a href="https://github.com/Tiroleza/java-distribuidor-tarefas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
+  <a href="https://github.com/Tiroleza/smashlive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=smashlive&theme=github_dark_dimmed" />
   </a>
-  <a href="https://github.com/Tiroleza/grizzlyBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
+  <a href="https://github.com/Tiroleza/App-para-Fire-Stick-TV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiroleza&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tiroleza-Profile&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </div>
