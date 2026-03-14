@@ -52,8 +52,8 @@
   <a href="https://github.com/Tiroleza/grizzlyBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
   </a>
-  <a href="https://github.com/Tiroleza/smashlive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=smashlive&theme=github_dark_dimmed" />
+  <a href="https://github.com/Tiroleza/aprendi-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/App-para-Fire-Stick-TV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed" />
