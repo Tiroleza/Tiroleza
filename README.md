@@ -5,7 +5,7 @@
 <h1 align="center">Felipe Tiroleza | <small>Software Engineer</small></h1>
 
 <p align="center">
-  <i>Open to new opportunities, technical challenges, and collaborative projects. Feel free to reach out!</i>
+  <i>Always open to discussing tech, sharing knowledge, or exploring new opportunities. Let's connect!</i>
 </p>
 
 <div align="center">
