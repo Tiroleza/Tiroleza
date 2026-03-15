@@ -62,5 +62,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiroleza-Profile&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tiroleza-Profile-v2&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </div>
