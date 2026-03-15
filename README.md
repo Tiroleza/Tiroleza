@@ -3,6 +3,11 @@
 </div>
 
 <h1 align="center">Felipe Tiroleza | <small>Software Engineer</small></h1>
+
+<p align="center">
+  <i>Open to new opportunities, technical challenges, and collaborative projects. Feel free to reach out!</i>
+</p>
+
 <div align="center">
   <a href="mailto:fefetiroleza@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/felipe-tiroleza-312635179/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
