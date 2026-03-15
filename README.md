@@ -49,8 +49,8 @@
   <a href="https://github.com/Tiroleza/aprendi-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
   </a>
-  <a href="https://github.com/Tiroleza/App-para-Fire-Stick-TV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=App-para-Fire-Stick-TV&theme=github_dark_dimmed&v=1" />
+  <a href="https://github.com/Tiroleza/smartPark-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=smartPark-web&theme=github_dark_dimmed&v=1" />
   </a>
 </div>
 
