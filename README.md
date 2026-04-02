@@ -37,7 +37,7 @@
       <p><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firestore, Supabase, Redis, Amazon S3.</p>
     </td>
     <td width="45%" valign="center" align="center" style="border: none;">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&cache_seconds=1800"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&cache_seconds=1800"/>
     </td>
   </tr>
 </table>
