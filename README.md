@@ -32,7 +32,7 @@
       <p><b>Ferramentas:</b> Git, GitHub, Android Studio, VS Code, Postman.</p>
     </td>
     <td width="50%" valign="center" align="center" style="border: none;">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&custom_language_colors=python:4caf50,typescript:4caf50"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css"/>
     </td>
   </tr>
 </table>
