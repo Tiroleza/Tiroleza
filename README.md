@@ -46,16 +46,16 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Tiroleza/java-distribuidor-tarefas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/grizzlyBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/aprendi-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/Tiroleza/smartPark-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiroleza&repo=smartPark-web&theme=github_dark_dimmed&v=1" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=smartPark-web&theme=github_dark_dimmed&v=1" />
   </a>
 </div>
 
