@@ -1,0 +1,96 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Roda diariamente às 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # actions/checkout v4.2.2
+        with:
+          token: ${{ github.token }}
+
+      - name: Generate streak card
+        uses: Tiroleza/github-readme-streak-stats@fb4fb83768a8ee89c75b0caed4c0a31e1538318c # fork DenverCoder1/github-readme-streak-stats
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-dimmed&hide_border=false
+          path: profile/streak.svg
+
+      - name: Generate top languages card
+        uses: Tiroleza/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # fork stats-organization/github-readme-stats-action v2.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css
+          path: profile/top-langs.svg
+          core_version: 2.2.0
+          fail_on_error: true
+
+      - name: Generate pin - java-distribuidor-tarefas
+        uses: Tiroleza/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # fork stats-organization/github-readme-stats-action v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=java-distribuidor-tarefas&theme=github_dark_dimmed
+          path: profile/pin-java-distribuidor-tarefas.svg
+          core_version: 2.2.0
+          fail_on_error: true
+
+      - name: Generate pin - grizzlyBot
+        uses: Tiroleza/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # fork stats-organization/github-readme-stats-action v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=grizzlyBot&theme=github_dark_dimmed
+          path: profile/pin-grizzlyBot.svg
+          core_version: 2.2.0
+          fail_on_error: true
+
+      - name: Generate pin - aprendi-
+        uses: Tiroleza/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # fork stats-organization/github-readme-stats-action v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=aprendi-&theme=github_dark_dimmed
+          path: profile/pin-aprendi-.svg
+          core_version: 2.2.0
+          fail_on_error: true
+
+      - name: Generate pin - smartPark-web
+        uses: Tiroleza/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # fork stats-organization/github-readme-stats-action v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=smartPark-web&theme=github_dark_dimmed
+          path: profile/pin-smartPark-web.svg
+          core_version: 2.2.0
+          fail_on_error: true
+
+      - name: Validate generated SVGs
+        run: |
+          mkdir -p profile
+          falhas=0
+          for f in profile/streak.svg \
+                   profile/top-langs.svg \
+                   profile/pin-java-distribuidor-tarefas.svg \
+                   profile/pin-grizzlyBot.svg \
+                   profile/pin-aprendi-.svg \
+                   profile/pin-smartPark-web.svg; do
+            if [ ! -s "$f" ]; then
+              echo "ERRO: $f ausente ou vazio"
+              falhas=$((falhas+1))
+            else
+              echo "OK: $f ($(wc -c < "$f") bytes)"
+            fi
+          done
+          [ "$falhas" -eq 0 ] || { echo "$falhas arquivo(s) com problema"; exit 1; }
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet && echo "Nenhuma alteração detectada" && exit 0
+          git commit -m "chore(profile): update README cards [skip ci]"
+          git push
