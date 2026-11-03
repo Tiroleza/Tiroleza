@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiroleza&theme=github-dark-dimmed&hide_border=false"/>
+  <img height="170em" src="./profile/streak.svg"/>
 </div>
 
 <br>
@@ -37,7 +37,7 @@
       <p><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firestore, Supabase, Redis, Amazon S3.</p>
     </td>
     <td width="45%" valign="center" align="center" style="border: none;">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tiroleza&layout=compact&langs_count=6&theme=github_dark_dimmed&hide=html,css&cache_seconds=1800"/>
+      <img height="160em" src="./profile/top-langs.svg"/>
     </td>
   </tr>
 </table>
@@ -46,16 +46,16 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/Tiroleza/java-distribuidor-tarefas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=java-distribuidor-tarefas&theme=github_dark_dimmed" />
+    <img src="./profile/pin-java-distribuidor-tarefas.svg" />
   </a>
   <a href="https://github.com/Tiroleza/grizzlyBot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=grizzlyBot&theme=github_dark_dimmed" />
+    <img src="./profile/pin-grizzlyBot.svg" />
   </a>
   <a href="https://github.com/Tiroleza/aprendi-">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=aprendi-&theme=github_dark_dimmed" />
+    <img src="./profile/pin-aprendi-.svg" />
   </a>
   <a href="https://github.com/Tiroleza/smartPark-web">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tiroleza&repo=smartPark-web&theme=github_dark_dimmed&v=1" />
+    <img src="./profile/pin-smartPark-web.svg" />
   </a>
 </div>
 
